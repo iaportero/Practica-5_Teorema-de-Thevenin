@@ -80,7 +80,7 @@ Tabla de resultados de valores teoricos y experimentales:
 
 6. Manual de usuario
 
-https://github.com/iaportero/Practica-3_Teoremadesuperposicion/blob/main/Hojas%20tecnicas/manual-tinkercad.pdf
+https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Hojas%20Tecnicas/manual-tinkercad.pdf
 
 
 7. Descripcion de prerrequisitos y configuracion
