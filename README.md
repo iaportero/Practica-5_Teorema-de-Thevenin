@@ -76,7 +76,10 @@ Usando Tinkercad
 
 Tabla de resultados de valores teoricos y experimentales:
 
-![](
+![](https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Imagenes/imag%206.png)
+
+![](https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Imagenes/imag%207.png)
+
 
 6. Manual de usuario
 
