@@ -120,6 +120,7 @@ norenelson. (2021). teorema de Thevenin y Zbarra. Retrieved 5 January 2021, from
 
 Link de los calculos teoricos:
 
+https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Codigo%20Fuente/Teorema%20de%20Thevenin%20guia%205.1.pdf
 
 Link del video de la practica:
 
