@@ -68,11 +68,6 @@ Usando Tinkercad
 
 5.7Simulando el circuito equivalente de Thevenin agregamos la resistencia R5 y con el multimetro medimos corriente y voltaje que circula por el circuito
 
-5.8 Anotamos los valores teoricos y experimentales en las siguientes tablas:
-
-![](https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Imagenes/imag%204.png)
-
-![](https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Imagenes/imag%205.png)
 
 Tabla de resultados de valores teoricos y experimentales:
 
@@ -124,7 +119,7 @@ https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Codigo%20F
 
 Link del video de la practica:
 
-
+https://youtu.be/mx4pyW5I_vE
 
 
 
