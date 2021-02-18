@@ -37,7 +37,8 @@ Circuito a armar
 
 Usando Tinkercad 
 
-![](
+![](https://github.com/iaportero/Practica-5_Teorema-de-Thevenin/blob/main/Imagenes/i%209.png)
+
 
 
 
